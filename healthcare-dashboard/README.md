@@ -14,9 +14,9 @@ The dashboard was designed to provide a clear overview of the dataset and help u
 
 ### Dashboard Preview
 
-![Healthcare Dashboard](dashboard-1.png)
+![Healthcare Dashboard](dashboard-1.jpg)
 
-![Healthcare Dashboard](dashboard-2.png)
+![Healthcare Dashboard](dashboard-2.jpg)
 
 ## 🛠️ Tools Used
 
